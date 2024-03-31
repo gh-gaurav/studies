@@ -1,0 +1,23 @@
+{
+  "name": "Python Training",
+  "date": "April 19, 2024",
+  "completed": true,
+  "instructor": {
+   "name": "Nakul",
+   "website": "http://nucleusteq.com/"
+  },
+  "participants": [
+    {
+      "name": "Gaurav",
+      "email": "gaurav@gmail.com"
+    },
+    {
+      "name": "khushi",
+      "email": "khushi@gmail.com"
+    },
+    {
+      "name": "aditya",
+      "email": "aditya@gmail.com"
+    }
+  ]
+}
