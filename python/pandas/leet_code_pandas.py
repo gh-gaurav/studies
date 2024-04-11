@@ -9,5 +9,3 @@ list = [
     [3,400],
     [4,500],
     ]
-df = pd.DataFrame(list,columns = ['student_id','age'])
-print(df)
