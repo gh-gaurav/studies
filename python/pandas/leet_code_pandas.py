@@ -9,3 +9,17 @@ list = [
     [3,400],
     [4,500],
     ]
+
+df = pd.DataFrame(list,columns=['student_id','age'])
+#return the size of rows and colums in a list
+
+# rows,columns = df.shape
+rows = df.shape[0]
+columns = df.shape[1]
+# print([rows,columns])
+
+#data where student id =3
+# print(df[df['student_id']==3])
+
+#creating new column to existing dataframe
+print(df)
