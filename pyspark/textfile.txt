@@ -1,0 +1,4 @@
+Line 1: Spark is a unified analytics engine for large-scale data processing.
+Line 2: It provides high-level APIs in Java, Scala, Python, and R.
+Line 3: Spark also includes a rich set of libraries.
+Line 4: These libraries include SQL, streaming, machine learning, and graph processing.
