@@ -1,5 +1,6 @@
 [
-{"Name": "Gaurav", "Age": 23, "Occupation": "Engineer"},
-{"Name": "Mayur", "Age": 24, "Occupation": "Doctor"},
-{"Name": "Pranjal", "Age": 23, "Occupation": "Artist"},
-{"Name": "Sakshi", "Age": 25, "Occupation": "Unemployed"}]
+    {"Name": "Gaurav", "Age": 23, "Occupation": "Engineer"},
+    {"Name": "Mayur", "Age": 24, "Occupation": "Doctor"},
+    {"Name": "Pranjal", "Age": 23, "Occupation": "Artist"},
+    {"Name": "Sakshi", "Age": 25, "Occupation": "Unemployed"}
+]
